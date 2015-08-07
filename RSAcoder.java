@@ -6,6 +6,10 @@ import java.security.interfaces.RSAPublicKey;
 import java.security.spec.*;
 import java.util.*;
 
+/*
+*
+*
+*/
 public class RSAcoder
 {
 	private static final String KEY_ALGORITHM="rsa";
